@@ -1,7 +1,7 @@
 # <p align="center">Kotlin(Android) Study</p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/MYSQL-000000?style=for-the-badge&logo=mysql&logoColor=skyblue">
+<img src="https://img.shields.io/badge/KOTLIN-7F52FF?style=for-the-badge&logo=kotlin&logoColor=black">
 </p>
 <br/>
 

@@ -59,3 +59,16 @@ when(ranking/5){
 ## Loop
 - ```While```문은 기본적으로 Java와 동일한 동작을 한다.
 - 하지만 ```for```문은 Python과 유사하게 사용을 한다고 보면 되겠다.
+```Kotlin
+var grade: Array<String> = arrayOf("A+", "A", "B+", "B", "F")
+for(i in 0..5) print(i + " ") // 0 1 2 3 4
+for(i in grade) print(i + " ") // A+ A B+ B F
+```
+
+## Class
+> Java와 마찬가지로, OOL이기 때문에 Class 개념이 존재한다.  
+```Kotlin
+public class Grade constructor(val name: String, score: Int){
+  var score = score
+}
+```
